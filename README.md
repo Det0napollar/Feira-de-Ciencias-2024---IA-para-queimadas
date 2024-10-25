@@ -11,3 +11,5 @@ Coleta de Dados: O modelo recebe como entrada três variáveis: índice de veget
 Normalização: Os dados são normalizados para que todas as variáveis estejam em uma escala de 0 a 1.
 Cálculo de Risco: Através de uma fórmula que combina os valores normalizados com pesos específicos para cada variável, o modelo calcula o risco de queimada.
 Classificação: Se o risco for maior que 0.6, o modelo prevê a ocorrência de uma queimada. Caso contrário, prevê que não haverá queimada.
+
+O arquivo de index.py está mais completo mas ainda não foi totalmente finalizado e testado mas pode ser muito mais aprimorado no futuro já o arquivo feira de ciencias  está mais otimizado e simples que é o que foi utilizado na feira
